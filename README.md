@@ -47,6 +47,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=course&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Book-store" />
 </a>
 
+<a href="https://github.com/lucryk/my_bot/tree/main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=course&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Book-store" />
+</a>
 
 ###
 
