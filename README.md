@@ -36,19 +36,19 @@
 </a>
 
 <a href="https://github.com/lucryk/project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=project&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Book-store" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=project&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Project" />
 </a>
 
 <a href="https://github.com/lucryk/maks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=maks&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Book-store" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=maks&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Maks" />
 </a>
 
 <a href="https://github.com/lucryk/course">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=course&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Book-store" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=course&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Course" />
 </a>
 
 <a href="https://github.com/lucryk/my_bot/tree/main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=course&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Book-store" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucryk&repo=course&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="My_bot" />
 </a>
 
 ###
